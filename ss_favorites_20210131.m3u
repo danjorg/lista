@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="-1", Latinos UP
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+#EXTINF:0 type="favorites" channelId="59", Discovery ID
+http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
+#EXTINF:0 type="favorites" channelId="2663" group="COSTA RICA", Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/oAdVLb8.png", Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", America HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0 type="favorites" channelId="2489" group="MEXICO" logo="http://puu.sh/mb2AM/887927ece3.png", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Latinos" logo="http://cableaudiovision.com.ar/grilla-web/canales/mvnueve.png", Canal 9 Multivision
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:0 type="favorites" channelId="2726" group="NOTICIAS" logo="http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg", Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png", DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:0 type="favorites" channelId="1442" group="NOTICIAS" logo="https://www.famouslogos.us/images/nbc-logo.jpg", NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0 type="favorites" channelId="1682" group="Espaa", Divinity
+http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1677" group="Espaa" logo="http://vertelevisor.com/logos/cosmo.png", COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3638" group="Espaa" logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450", Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Espaa" logo="http://tecnotv.info/logoss/dmax.png", DMAX Espaa
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1321" group="canales 1" logo="http://srregio.net/img/img.php", LA 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="canales 1" logo="http://srregio.net/img/img.php", CNC CHINA
+https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="canales 1" logo="http://srregio.net/img/img.php", TELEMUNDO NOVELAS
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
+#EXTINF:0 type="favorites" channelId="-1" group="canales 1" logo="http://srregio.net/img/img.php", TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8
+#EXTINF:0 type="favorites" channelId="1323" name="24 HORAS" group="ESPANA" logo="https://i.imgur.com/KJaDxt9.png" country="es",  24 HORAS
+http://tvpremiumhd.club/lista-gratuita/183030/on/live.php?id=rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png", ARGENTINA: Canal 26
+http://tvpremiumhd.club/lista-gratuita/183030/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
+#EXTINF:0 type="favorites" channelId="2663" name="Telesur" group="COSTA RICA" logo="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" country="cr",  Telesur
+http://tvpremiumhd.club/lista-gratuita/183030/on/live.php?id=k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MUSICA" logo="https://i.imgur.com/30HzeQe.png", MUSICA: Music Top
+http://tvpremiumhd.club/lista-gratuita/183030/on/live.php?id=live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="736" group="LATIN AMERICA", CGTN Español (Opt-1)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="LATIN AMERICA", DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:0 type="favorites" channelId="1973" group="LATIN AMERICA", MTV (Opt-1)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:0 type="favorites" channelId="2546" group="ARGENTINA", America TV
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:0 type="favorites" channelId="2663" group="VENEZUELA", TeleSUR (Opt-1)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:0 type="favorites" channelId="2663" group="VENEZUELA", TeleSUR (Opt-3)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Without category" logo="http://127.0.0.1/", REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="https://www.cn247.tv/img/logo.png", CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Without category" logo="http://127.0.0.1/", ATVHD www.m3ugratis.com
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Without category" logo="http://127.0.0.1/", CBS www.m3ugratis.com
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Musica" logo="http://photocall.tv/images/latinosup.png", Latinos UP
+https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Cultura" logo="http://www.dw.com/cssi/dwlogo-print.gif", DW NACIONALES
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="favorites" channelId="2813" group="Generalistas" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg", La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:0 type="favorites" channelId="4656" group="Without category" logo="http://127.0.0.1/", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:0 type="favorites" channelId="-1" group="NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png", DW Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?xtreamiptv.m3u8
